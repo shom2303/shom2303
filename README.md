@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/shom2303/LABURL)
-- [Hello World!](https://github.com/shom2303/LABURL)
+- [Network Analysis Lab](https://github.com/shom2303/NetworkAnalysis/tree/main)
+- [Hello World!](https://github.com/shom2303/NetworkAnalysis/tree/main)
 
 <h2>📄 Certifications</h2>
 
