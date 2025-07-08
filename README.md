@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Network Analysis Lab](https://github.com/shom2303/NetworkAnalysis/tree/main)
-- [Hello World!](https://github.com/shom2303/NetworkAnalysis/tree/main)
+- [Cybersecurity Case Study](https://github.com/shom2303/CybersecurityCaseStudy.git)
 
 <h2>📄 Certifications</h2>
 
